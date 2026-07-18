@@ -1,0 +1,9 @@
+{
+  "days_back": 10,
+  "max_entries_per_feed": 30,
+  "max_total_articles": 3000,
+  "max_workers": 24,
+  "request_timeout_seconds": 20,
+  "summary_max_chars": 500,
+  "site_title": "La Veille RSS de Baptiste"
+}
